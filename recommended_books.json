@@ -1,0 +1,302 @@
+[
+    {
+        "title": "Moby Dick",
+        "author": "Melville",
+        "rating": 10,
+        "status": "Read"
+    },
+    {
+        "title": "The Brothers Karamazov",
+        "author": "Dostoevsky",
+        "rating": 10,
+        "status": "Read"
+    },
+    {
+        "title": "Lolita",
+        "author": "Nabokov",
+        "rating": 10,
+        "status": "Read"
+    },
+    {
+        "title": "Crime and Punishment",
+        "author": "Dostoevsky",
+        "rating": 10,
+        "status": "Read"
+    },
+    {
+        "title": "Ulysses",
+        "author": "Joyce",
+        "rating": 10,
+        "status": "Read"
+    },
+    {
+        "title": "Infinite Jest",
+        "author": "Wallace",
+        "rating": 10,
+        "status": "Read"
+    },
+    {
+        "title": "Don Quixote",
+        "author": "Cervantes",
+        "rating": 10,
+        "status": "Read"
+    },
+    {
+        "title": "Blood Meridian",
+        "author": "McCarthy",
+        "rating": 10,
+        "status": "Read"
+    },
+    {
+        "title": "Gravity's Rainbow",
+        "author": "Pynchon",
+        "rating": 10,
+        "status": "Read"
+    },
+    {
+        "title": "Holy Bible",
+        "author": "God",
+        "rating": 10,
+        "status": "Read"
+    },
+    {
+        "title": "Stoner",
+        "author": "Williams",
+        "rating": 10,
+        "status": "Read"
+    },
+    {
+        "title": "In Search of Lost Time",
+        "author": "Proust",
+        "rating": 10,
+        "status": "Read"
+    },
+    {
+        "title": "The Stranger",
+        "author": "Camus",
+        "rating": 10,
+        "status": "Read"
+    },
+    {
+        "title": "The Divine Comedy",
+        "author": "Dante",
+        "rating": 10,
+        "status": "Read"
+    },
+    {
+        "title": "Anna Karenina",
+        "author": "Tolstoy",
+        "rating": 10,
+        "status": "Read"
+    },
+    {
+        "title": "Ficciones",
+        "author": "Borges",
+        "rating": 10,
+        "status": "Read"
+    },
+    {
+        "title": "War and Peace",
+        "author": "Tolstoy",
+        "rating": 10,
+        "status": "Read"
+    },
+    {
+        "title": "The Odyssey",
+        "author": "Homer",
+        "rating": 10,
+        "status": "Read"
+    },
+    {
+        "title": "The Trial",
+        "author": "Kafka",
+        "rating": 10,
+        "status": "Read"
+    },
+    {
+        "title": "Hamlet",
+        "author": "Shakespeare",
+        "rating": 10,
+        "status": "Read"
+    },
+    {
+        "title": "One Hundred Years of Solitude",
+        "author": "M\u00e1rquez",
+        "rating": 10,
+        "status": "Read"
+    },
+    {
+        "title": "1984",
+        "author": "Orwell",
+        "rating": 10,
+        "status": "Read"
+    },
+    {
+        "title": "Notes from Underground",
+        "author": "Dostoevsky",
+        "rating": 9,
+        "status": "Read"
+    },
+    {
+        "title": "2666",
+        "author": "Bola\u00f1o",
+        "rating": 9,
+        "status": "Read"
+    },
+    {
+        "title": "Faust",
+        "author": "Goethe",
+        "rating": 9,
+        "status": "Read"
+    },
+    {
+        "title": "The Book of the New Sun",
+        "author": "Wolfe",
+        "rating": 9,
+        "status": "Read"
+    },
+    {
+        "title": "Dubliners",
+        "author": "Joyce",
+        "rating": 9,
+        "status": "Read"
+    },
+    {
+        "title": "Catch-22",
+        "author": "Heller",
+        "rating": 9,
+        "status": "Read"
+    },
+    {
+        "title": "Journey to the End of the Night",
+        "author": "C\u00e9line",
+        "rating": 9,
+        "status": "Read"
+    },
+    {
+        "title": "The Catcher in the Rye",
+        "author": "Salinger",
+        "rating": 9,
+        "status": "Read"
+    },
+    {
+        "title": "Book of Disquiet",
+        "author": "Pessoa",
+        "rating": 9,
+        "status": "Read"
+    },
+    {
+        "title": "The Sound and the Fury",
+        "author": "Faulkner",
+        "rating": 9,
+        "status": "Read"
+    },
+    {
+        "title": "The Master and Margarita",
+        "author": "Bulgakov",
+        "rating": 9,
+        "status": "Read"
+    },
+    {
+        "title": "The Lord of the Rings",
+        "author": "Tolkien",
+        "rating": 9,
+        "status": "Read"
+    },
+    {
+        "title": "The Metamorphosis",
+        "author": "Kafka",
+        "rating": 9,
+        "status": "Read"
+    },
+    {
+        "title": "Portrait of the Artist as a Young Man",
+        "author": "Joyce",
+        "rating": 9,
+        "status": "Read"
+    },
+    {
+        "title": "Thus Spoke Zarathustra",
+        "author": "Nietzsche",
+        "rating": 9,
+        "status": "Read"
+    },
+    {
+        "title": "The Idiot",
+        "author": "Dostoevsky",
+        "rating": 9,
+        "status": "Read"
+    },
+    {
+        "title": "Paradise Lost",
+        "author": "Milton",
+        "rating": 9,
+        "status": "Read"
+    },
+    {
+        "title": "East of Eden",
+        "author": "Steinbeck",
+        "rating": 9,
+        "status": "Read"
+    },
+    {
+        "title": "Mason & Dixon",
+        "author": "Pynchon",
+        "rating": 9,
+        "status": "Read"
+    },
+    {
+        "title": "Pale Fire",
+        "author": "Nabokov",
+        "rating": 9,
+        "status": "Read"
+    },
+    {
+        "title": "The Count of Monte Cristo",
+        "author": "Dumas",
+        "rating": 10,
+        "status": "Read"
+    },
+    {
+        "title": "The Picture of Dorian Gray",
+        "author": "Wilde",
+        "rating": 8,
+        "status": "Read"
+    },
+    {
+        "title": "A Confederacy of Dunces",
+        "author": "Toole",
+        "rating": 10,
+        "status": "Read"
+    },
+    {
+        "title": "Siddhartha",
+        "author": "Hesse",
+        "rating": 10,
+        "status": "Read"
+    },
+    {
+        "title": "Hunger",
+        "author": "Hamsun",
+        "rating": 9,
+        "status": "Read"
+    },
+    {
+        "title": "The Magic Mountain",
+        "author": "Mann",
+        "rating": 9,
+        "status": "Read"
+    },
+    {
+        "title": "Heart of Darkness",
+        "author": "Conrad",
+        "rating": 9,
+        "status": "Read"
+    },
+    {
+        "title": "No Longer Human",
+        "author": "Dazai",
+        "rating": 9,
+        "status": "Read"
+    }
+]
